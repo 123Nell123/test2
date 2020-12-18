@@ -1,0 +1,6 @@
+git init
+git remote add myremote https://github.com/123Nell123/test.git
+git remote show myremote
+
+echo mycontent > myfile.txt
+git add .
